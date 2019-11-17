@@ -1,0 +1,10 @@
+Ring hybrid coupler design using cst
+
+How the Ring Hybrid Coupler Works
+The power supplied to the port 1 is transmitted to the ports 2 and 3 (port 1 is an output port, ports 2 and 3 are input ports. Port 4 is a voltage configuration). The elements cancel each other and there is no power to the output.
+
+The ring hybrid coupler modeling is made using cst, and the first outer radius of the circle is set to R = 2.044CM and the first value of R1 is set to 0.08CM.
+Measurement results at the physical port (2) were -32.5 dB.
+The measurement result at port 3 is -50.3dB.
+
+Ring hybrid couplers are widely used in power distribution, antenna connection or coupling devices, micro-frequency integrated circuits for all systems, power amplifiers and various measurement devices.
